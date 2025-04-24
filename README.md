@@ -13,7 +13,7 @@ Renew Support: Renew existing domain registrations.
 
 Support
 This module is developed and maintained by Anant Pandey. For any bugs, issues, or assistance, please contact:
-Email: anant@sparrowhost.com
+Email: anant@sparrowhost.in
 Disclaimer
 This is not an official Cosmotown module. It is a third-party implementation created by Anant Pandey. Use it at your own risk, and ensure you comply with Cosmotown's API terms and conditions.
 License
