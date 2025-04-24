@@ -1,6 +1,4 @@
-Cosmotown Module
-The Cosmotown Module is a Python library designed to interact with the Cosmotown domain registrar's API. It provides functionality for managing domain-related operations. This module is not an official product from Cosmotown and is independently developed by Anant Pandey.
-Features
+The Cosmotown Module is a PHP library designed to interact with the Cosmotown domain registrar's API. It provides functionality for managing domain-related operations. This module is not an official product from Cosmotown and is independently developed by Anant Pandey.
 
 EPP Code Support: Retrieve the EPP code for a domain.
 Nameservers Update Support: Update the nameservers for a registered domain.
